@@ -144,7 +144,3 @@ document.getElementById("taskTime").value="";
 
 }
 
-</script>
-
-</body>
-</html>
